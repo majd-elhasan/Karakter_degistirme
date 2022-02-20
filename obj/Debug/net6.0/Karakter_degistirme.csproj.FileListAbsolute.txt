@@ -1,0 +1,15 @@
+D:\Mecid_Files\GitHub\Csharp_projects\Karakter_degistirme\bin\Debug\net6.0\Karakter_degistirme.exe
+D:\Mecid_Files\GitHub\Csharp_projects\Karakter_degistirme\bin\Debug\net6.0\Karakter_degistirme.deps.json
+D:\Mecid_Files\GitHub\Csharp_projects\Karakter_degistirme\bin\Debug\net6.0\Karakter_degistirme.runtimeconfig.json
+D:\Mecid_Files\GitHub\Csharp_projects\Karakter_degistirme\bin\Debug\net6.0\Karakter_degistirme.dll
+D:\Mecid_Files\GitHub\Csharp_projects\Karakter_degistirme\bin\Debug\net6.0\ref\Karakter_degistirme.dll
+D:\Mecid_Files\GitHub\Csharp_projects\Karakter_degistirme\bin\Debug\net6.0\Karakter_degistirme.pdb
+D:\Mecid_Files\GitHub\Csharp_projects\Karakter_degistirme\obj\Debug\net6.0\Karakter_degistirme.csproj.AssemblyReference.cache
+D:\Mecid_Files\GitHub\Csharp_projects\Karakter_degistirme\obj\Debug\net6.0\Karakter_degistirme.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mecid_Files\GitHub\Csharp_projects\Karakter_degistirme\obj\Debug\net6.0\Karakter_degistirme.AssemblyInfoInputs.cache
+D:\Mecid_Files\GitHub\Csharp_projects\Karakter_degistirme\obj\Debug\net6.0\Karakter_degistirme.AssemblyInfo.cs
+D:\Mecid_Files\GitHub\Csharp_projects\Karakter_degistirme\obj\Debug\net6.0\Karakter_degistirme.csproj.CoreCompileInputs.cache
+D:\Mecid_Files\GitHub\Csharp_projects\Karakter_degistirme\obj\Debug\net6.0\Karakter_degistirme.dll
+D:\Mecid_Files\GitHub\Csharp_projects\Karakter_degistirme\obj\Debug\net6.0\ref\Karakter_degistirme.dll
+D:\Mecid_Files\GitHub\Csharp_projects\Karakter_degistirme\obj\Debug\net6.0\Karakter_degistirme.pdb
+D:\Mecid_Files\GitHub\Csharp_projects\Karakter_degistirme\obj\Debug\net6.0\Karakter_degistirme.genruntimeconfig.cache
